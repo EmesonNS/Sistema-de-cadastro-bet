@@ -122,7 +122,19 @@ mvn clean javafx:run
   </tbody>
 </table>
 
+### ✏️ Edição de Registros
 
+<p align="center">
+  <img src="cadastro_bet/gifs/edicao.gif" alt="Demonstração de Edição" width="600">
+</p>
+
+---
+
+### ❌ Exclusão de Registros
+
+<p align="center">
+  <img src="cadastro_bet/gifs/exclusao.gif" alt="Demonstração de Exclusão" width="600">
+</p>
 
 ## 🤝 Padrões de Projeto Utilizados
 
