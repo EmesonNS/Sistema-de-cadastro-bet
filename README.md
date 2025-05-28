@@ -72,33 +72,56 @@ cd projetoBet
 mvn clean javafx:run
 ```
 
-## 🎨 Demonstração
+## 💻 Interface do Sistema
 
-
-## 🖥️ Interface Principal
-
-![image](https://imgur.com/yVjrVxM)
-
-
----
-
-## 📝 Formulários de Cadastro
+### 🖥️ Tela Principal
 
 <p align="center">
-  <img src="https://imgur.com/a/jRqa5PK" width="250"/>
-  <img src="![image](https://github.com/user-attachments/assets/289e2fb4-b09b-46e2-9897-f87fa077b60a)" width="250"/>
-  <img src="![image](https://github.com/user-attachments/assets/8320eaa6-73bd-4459-bb2e-894bb974baf4)" width="250"/>
+  <img src="cadastro_bet/screenshot/Tela-Inicial.png" alt="Tela Principal" width="600">
 </p>
 
 ---
 
-## 🔍 Filtros Avançados
+### 🧾 Telas de Cadastro
 
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/f058c507-eaee-40bc-97ac-2711fea1076b)" width="250"/>
-  <img src="![image](https://github.com/user-attachments/assets/83aa1b38-9479-4972-8b33-6c439470f8db)" width="250"/>
-  <img src="![image](https://github.com/user-attachments/assets/ade10e40-1ecc-48b6-aa00-df5710d5822b)" width="250"/>
-</p>
+<table>
+  <thead>
+    <tr>
+      <th>Supervisor</th>
+      <th>Gerente</th>
+      <th>Cambista</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="cadastro_bet/screenshot/Cadastro-Supervisor.png" width="200"></td>
+      <td align="center"><img src="cadastro_bet/screenshot/Cadastro-Gerente.png" width="300"></td>
+      <td align="center"><img src="cadastro_bet/screenshot/Cadastro-Cambista.png" width="300"></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 🔍 Telas de Filtro
+
+<table>
+  <thead>
+    <tr>
+      <th>Supervisor</th>
+      <th>Gerente</th>
+      <th>Cambista</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="cadastro_bet/screenshot/Filtro-Supervisor.png" width="200"></td>
+      <td align="center"><img src="cadastro_bet/screenshot/Filtro-Gerente.png" width="200"></td>
+      <td align="center"><img src="cadastro_bet/screenshot/Filtro-Cambista.png" width="200"></td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ## 🤝 Padrões de Projeto Utilizados
