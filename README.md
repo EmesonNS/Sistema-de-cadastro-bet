@@ -1,6 +1,6 @@
 # 📌 Sistema de Cadastro Betão.Bet
 
-Sistema JavaFX com persistência via Hibernate no banco de dados mySql para cadastro hierárquico de perfis de uma casa de apostas.
+Sistema JavaFX com persistência via Hibernate no banco de dados mySql com foco no back-end para cadastro hierárquico de perfis de uma casa de apostas.
 
 ## 🚀 Funcionalidades
 
