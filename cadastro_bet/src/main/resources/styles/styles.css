@@ -1,0 +1,85 @@
+.fundo {
+    -fx-background-color: #b0aeae;
+}
+
+.titulo {
+    -fx-font-size: 28px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #dce3f0;
+    -fx-font-family: "Arial";
+}
+
+.marca {
+    -fx-font-size: 28px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Arial Black";
+    -fx-text-fill: linear-gradient(to right, red, green);
+}
+
+.botao {
+    -fx-background-color: #119902;
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+    -fx-padding: 8 16;
+    -fx-text-fill: #000;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.15), 3, 0.2, 0, 1);
+}
+
+.botao:selecionado{
+    -fx-background-color: #ab0202;
+}
+
+.botao:hover {
+    -fx-background-color: rgba(52, 152, 219, 0.2);
+}
+
+.botao-pesquisar {
+    -fx-background-color: #ddd;
+    -fx-border-color: #ccc;
+    -fx-border-radius: 0 0 5 5;
+    -fx-background-radius: 0 0 5 5;
+    -fx-font-weight: bold;
+    -fx-padding: 5 10;
+    -fx-cursor: hand;
+}
+
+.botao-excluir {
+    -fx-background-color: #ad0202;
+    -fx-border-color: #ccc;
+    -fx-border-radius: 0 0 5 5;
+    -fx-background-radius: 0 0 5 5;
+    -fx-font-weight: bold;
+    -fx-padding: 5 10;
+    -fx-cursor: hand;
+}
+
+.botao-excluir:hover{
+    -fx-background-color: #780101;
+}
+
+.botao-pesquisar:hover{
+    -fx-background-color: #c4c4c4
+}
+
+.tabela-area {
+    -fx-background-color: #999;
+    -fx-border-color: white;
+    -fx-border-width: 2;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-padding: 0;
+}
+
+.tabela-area .table-view {
+    -fx-background-insets: 0;
+    -fx-padding: 0;
+    -fx-background-radius: 0 0 10 10;
+}
+
+.filtros {
+    -fx-background-color: #999;
+    -fx-padding: 10;
+    -fx-alignment: center;
+}
